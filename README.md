@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about Blockchain security**
 
-- 📝 I regularly write articles on [hackmd.io/@m1dm4n](https://hackmd.io/@m1dm4n)
+- 📝 I regularly write articles on [m1dm4n's Blog](https://hackmd.io/@m1dm4n)
 
 - 📫 How to reach me **21522358@gm.uit.edu.vn**
 
