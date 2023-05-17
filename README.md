@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [m1dm4n's Blog](https://hackmd.io/@m1dm4n)
 
-- 📫 How to reach me **21522358@gm.uit.edu.vn**
+- 📫 How to reach me **lenam20112003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
