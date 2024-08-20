@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm m1dm4n a.k.a tnam1103</h1>
-<h3 align="center">A student and a CTF player who interested in Cryptography/Blockchain security. Seeking an internship opportunity in Cryptography/Blockchain Security for experience and more in-depth security knowledge</h3>
+<h3 align="center">A student and a CTF player who interested in Cryptography/Blockchain security.</h3>
 
-- 🌱 I’m currently learning **about Blockchain security**
+- 🌱 I’m currently learning about **modern Cryptography (ZKP, MPC,... or maybe some PQCs)**
 
 - 📝 I regularly write articles on [m1dm4n's Blog](https://hackmd.io/@m1dm4n)
 
